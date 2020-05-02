@@ -1,6 +1,6 @@
 # 900x400mm Deskmat
 
-![Deskmat Render](./Renders/900x400_Deskmat.png)
+![Deskmat Render](./Renders/900x400_Deskmat-Graphic.png)
 
 First up, let me preface this by saying... I am a total novice at anything 3D let alone rendering. At this point i've been using Fusion for maybe 2 weeks and Blender for just over a month so don't take anything i'm saying as being "the correct way". These methods work for me but your mileage may vary.
 
